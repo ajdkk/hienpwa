@@ -1,0 +1,74 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>https://ajdkk.github.io/hienpwa/hi/diabetes/</loc>
+        <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>https://ajdkk.github.io/hienpwa/hi/tags/</loc>
+        <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://ajdkk.github.io/hienpwa/hi/diabetes/type-1-iabetes/</loc>
+        <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://ajdkk.github.io/hienpwa/hi/tags/%E0%A4%A1%E0%A4%BE%E0%A4%AF%E0%A4%AC%E0%A4%BF%E0%A4%9F%E0%A5%80%E0%A4%9C/</loc>
+        <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://ajdkk.github.io/hienpwa/hi/</loc>
+        <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://ajdkk.github.io/hienpwa/hi/cookie-policy/</loc>
+        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://ajdkk.github.io/hienpwa/hi/privacy-policy/</loc>
+        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://ajdkk.github.io/hienpwa/hi/terms-and-conditions/</loc>
+        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://ajdkk.github.io/hienpwa/hi/menu/</loc>
+        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://ajdkk.github.io/hienpwa/hi/shop/</loc>
+        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://ajdkk.github.io/hienpwa/hi/health-tech/</loc>
+        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://ajdkk.github.io/hienpwa/hi/home-remedies/</loc>
+        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+</urlset>
