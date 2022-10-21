@@ -2,29 +2,29 @@
   "name": "By MOTUKAKA.COM",
   "short_name": "motukaka",
   "description": "One Stop Destination.",
-  "start_url": "https://ajdkk.github.io/hienpwa/",
+  "start_url": "/hienpwa",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#ffe259",
   "icons":[
     {
-      "src":"/icons/android-chrome-192x192.png",
+      "src":"/hienpwa/icons/android-chrome-192x192.png",
       "sizes":"192x192",
       "type":"image/png"
     },
     {
-      "src":"/icons/android-chrome-256x256.png",
+      "src":"/hienpwa/icons/android-chrome-256x256.png",
       "sizes":"256x256",
       "type":"image/png"
     },
     {
-      "src":"/icons/android-chrome-512x512.png",
+      "src":"/hienpwa/icons/android-chrome-512x512.png",
       "sizes":"512x512",
       "type":"image/png"
     },
     {
-      "src": "/icons/maskable-icon.png",
+      "src": "/hienpwa/icons/maskable-icon.png",
       "sizes": "196x196",
       "type": "image/png",
       "purpose": "any maskable"
