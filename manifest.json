@@ -2,7 +2,7 @@
   "name": "By MOTUKAKA.COM",
   "short_name": "motukaka",
   "description": "One Stop Destination.",
-  "start_url": "/",
+  "start_url": "/hienpwa/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
